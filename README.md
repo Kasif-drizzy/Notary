@@ -19,3 +19,5 @@ Number Row Characters
 kabboom kaboom 
 💔
 🫀
+
+[CLI commands](docs/cli.md)
