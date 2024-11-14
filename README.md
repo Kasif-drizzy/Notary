@@ -21,3 +21,4 @@ kabboom kaboom
 🫀
 
 [CLI commands](docs/cli.md)
+[SQL](https://sqliteonline.com/)
